@@ -36,3 +36,4 @@ This is our hub to stay connected and collaborate on projects together. If you w
 * **Michael A. Valentin** - [Github](https://github.com/mike1136) / [LinkedIn](https://www.linkedin.com/in/michael-valent%C3%ADn-12906aa2/)
 * **Craig R. Albertson** - [Github](https://github.com/wildaces215) / [LinkedIn](https://www.linkedin.com/in/craig-a-7bb14715b/)
 * **Ramona Saintandre** - [LinkedIn](https://www.linkedin.com/in/ramona-saintandre/) / [Github](https://github.com/thenewmona)
+* **Sean Morrison** - [Front-End Web Developer](https://confirm.udacity.com/ZYLLGSCL) - [LinkedIn](https://www.linkedin.com/in/theseanmorrison/) / [Github](https://github.com/TechSnazzy)
